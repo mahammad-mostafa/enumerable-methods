@@ -36,7 +36,7 @@ This repository includes a class file `MyList` & a module file `Enumerable`.
 📌 **Key Features:**
 - Class `MyList` includes a module & contains two methods
 - First method is to intialize the class with an array instance `list`
-- Second methid `each` implements looping through `list` instance
+- Second method `each` implements looping through `list` instance
 - Module `Enumerable` contains methods for several array operations
 - First method `all` checks if all elements of `list` array meets a comparison
 - Second method `any` checks if any element of `list` array meets a comparison
