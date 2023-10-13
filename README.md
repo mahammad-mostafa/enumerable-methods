@@ -27,7 +27,7 @@ Check the below contents for further details about this project.
 
 # 📖 Description
 
-This repository includes a class file `MyList` & a module file `Enumerable`.
+This repository includes a class file `MyList` & a module file `MyEnumerable`.
 
 
 📌 **Tech Stack:**
@@ -37,7 +37,7 @@ This repository includes a class file `MyList` & a module file `Enumerable`.
 - Class `MyList` includes a module & contains two methods
 - First method is to intialize the class with an array instance `list`
 - Second method `each` implements looping through `list` instance
-- Module `Enumerable` contains methods for several array operations
+- Module `MyEnumerable` contains methods for several array operations
 - First method `all` checks if all elements of `list` array meets a comparison
 - Second method `any` checks if any element of `list` array meets a comparison
 - Third method `filter` return a new array if any element of `list` array meets a condition
