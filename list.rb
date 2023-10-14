@@ -1,9 +1,9 @@
-require './enumarable'
+require_relative 'enumarable'
 
 class MyList
   include MyEnumerable
-  def initialize(array)
-    @list = array
+  def initialize(*numbers)
+    @list = numbers
   end
 
   def each
